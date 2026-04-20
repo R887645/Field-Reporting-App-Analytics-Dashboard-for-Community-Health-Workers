@@ -91,7 +91,7 @@ Calendar = CALENDARAUTO()
 ```
 ![My Image](https://github.com/R887645/Field-Reporting-App-Analytics-Dashboard-for-Community-Health-Workers/blob/main/power_App_Datamodelling.png?raw=true)
 
-### Step 6 — Creating DAX Measures
+### Step 6: Creating DAX Measures
 Built some simple measures to power KPI cards:
 
 ![My Image Description](https://github.com/R887645/Field-Reporting-App-Analytics-Dashboard-for-Community-Health-Workers/blob/main/power%20App__DAX.png?raw=true)
