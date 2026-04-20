@@ -156,7 +156,7 @@ solutions like this can:
 
 👋 **About the Author**
 
-Hi, I'm **Rofiah** — an E-commerce Data Analyst currently expanding into Microsoft Power Platform, building low & no-code automation solutions with Power Automate, Power Apps, and Power Pages.
+Hi, I'm **Rofiah**:  an E-commerce Data Analyst currently expanding into Microsoft Power Platform, building low & no-code automation solutions with Power Automate, Power Apps, and Power Pages.
 
 I believe data is most powerful when it solves real problems for real people.
 
