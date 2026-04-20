@@ -88,15 +88,13 @@ The goal of this app is to eliminate paper‑based reporting by enabling CHWs to
 
 ```DAX
 Calendar = CALENDARAUTO()
-
+```
 ![My Image](https://github.com/R887645/Field-Reporting-App-Analytics-Dashboard-for-Community-Health-Workers/blob/main/power_App_Datamodelling.png?raw=true)
-
 
 ### Step 6 — Creating DAX Measures
 Built some simple measures to power KPI cards:
 
 ![My Image Description](https://github.com/R887645/Field-Reporting-App-Analytics-Dashboard-for-Community-Health-Workers/blob/main/power%20App__DAX.png?raw=true)
-
 
 ## Step 7 — Designing the Dashboard
 Final dashboard included:
@@ -107,7 +105,7 @@ Final dashboard included:
 * Community Reach Summary Table
 * Dynamic "Last Refreshed" timestamp
 
-![My Image Description](https://github.com/R887645/Field-Reporting-App-Analytics-Dashboard-for-Community-Health-Workers/blob/main/Power%20Apps_Power%20BI.png?raw=truee)
+![My Image Description](https://github.com/R887645/Field-Reporting-App-Analytics-Dashboard-for-Community-Health-Workers/blob/main/Power%20Apps_Power%20BI.png?raw=true)
 
 ## 📊 Results
 Even with 7 test records, the dashboard demonstrated:
@@ -128,7 +126,7 @@ Even with 7 test records, the dashboard demonstrated:
 
 * Offline capability for low‑network areas.
 * Automated alerts via Power Automate.
-* User authentication for CHWs(Community Health Workers).
+* User authentication for CHWs (Community Health Workers).
 * Trend analysis and drill‑through dashboards.
 * Integration with real NPHCDA datasets.
 
@@ -157,7 +155,9 @@ solutions like this can:
 
 👋 **About the Author**
 
-Hi, I'm **Rofiah**:  an E-commerce Data Analyst currently expanding into Microsoft Power Platform, building low & no-code automation solutions with Power Automate, Power Apps, and Power Pages.
+Hi, I'm **Rofiah** — an E-commerce Data Analyst currently expanding into Microsoft 
+Power Platform, building low & no-code automation solutions with Power Automate, 
+Power Apps, and Power Pages.
 
 I believe data is most powerful when it solves real problems for real people.
 
