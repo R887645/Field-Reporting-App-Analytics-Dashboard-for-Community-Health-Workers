@@ -118,7 +118,7 @@ Even with 7 test records, the dashboard demonstrated:
 
 ## ⚠️ Limitations
 
-1. Built in a developer tenant (not production‑ready) so the App Link can't be tested.
+1. Built in a developer tenant (not production‑ready), so the App Link can't be tested for external use.
 2. Limited test data (7 records).
 3. Requires internet connectivity (no offline support yet).
 
@@ -155,14 +155,14 @@ solutions like this can:
 
 👋 **About the Author**
 
-Hi, I'm **Rofiah** — an E-commerce Data Analyst currently expanding into Microsoft 
+Hi, I'm **Rofiah**: an E-commerce Data Analyst currently expanding into Microsoft 
 Power Platform, building low & no-code automation solutions with Power Automate, 
-Power Apps, and Power Pages.
+Power Apps and Power Pages.
 
 I believe data is most powerful when it solves real problems for real people.
 
 If you're an organization, NGO, or health-tech startup looking to turn your 
-raw field data into actionable insights — let's talk.
+raw field data into actionable insights: let's talk.
 
 📩 **Let's collaborate** and build something meaningful together.
 
