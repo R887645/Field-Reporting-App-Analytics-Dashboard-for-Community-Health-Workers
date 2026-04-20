@@ -1,6 +1,7 @@
 # 📱 Digital Health Reporting App for Community Health Workers in Nigeria  
 **Built with Power Apps, Dataverse & Power BI**  
 *A step‑by‑step walkthrough of my Microsoft Elevate AI Developers Program Capstone Project*
+![My image Description]https://github.com/R887645/Field-Reporting-App-Analytics-Dashboard-for-Community-Health-Workers/blob/main/health%20worker_Thumbnail.png?raw=true)
 
 ---
 
