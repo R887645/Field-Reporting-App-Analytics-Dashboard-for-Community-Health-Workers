@@ -94,6 +94,7 @@ Calendar = CALENDARAUTO()
 
 ### Step 6 — Creating DAX Measures
 Built some simple measures to power KPI cards:
+
 ![My Image Description](https://github.com/R887645/Field-Reporting-App-Analytics-Dashboard-for-Community-Health-Workers/blob/main/power%20App__DAX.png?raw=true)
 
 
@@ -106,7 +107,7 @@ Final dashboard included:
 * Community Reach Summary Table
 * Dynamic "Last Refreshed" timestamp
 
-![My Image](https://github.com/R887645/Field-Reporting-App-Analytics-Dashboard-for-Community-Health-Workers/blob/main/Power%20Apps_Power%20BI.png?raw=true)
+![My Image Description](https://github.com/R887645/Field-Reporting-App-Analytics-Dashboard-for-Community-Health-Workers/blob/main/Power%20Apps_Power%20BI.png?raw=truee)
 
 ## 📊 Results
 Even with 7 test records, the dashboard demonstrated:
