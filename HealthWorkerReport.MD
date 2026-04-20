@@ -162,9 +162,17 @@ Power Apps and Power Pages.
 
 I believe data is most powerful when it solves real problems for real people.
 
-If you're an organization, NGO, or health-tech startup looking to turn your 
-raw field data into actionable insights: let's talk.
 
-📩 **Let's collaborate** and build something meaningful together.
+📌 PLEASE NOTE:
+- The Power App link is not accessible to external users as this was built on a 
+  Microsoft 365 Developer sandbox account — access is restricted to within that tenant only.
 
+- The Power BI dashboard link is equally unavailable for external access 
+  for the same reason. In a real organisational deployment, access would be 
+  granted and managed within the organisation's Microsoft 365 tenant.
+
+- The dashboard was built with only 7 test records, this is intentional. 
+  The goal was to demonstrate the end-to-end connection between Power Apps 
+  and Power BI, not to present real patient data. In a live deployment, 
+  the dashboard would reflect hundreds of real field visits over time.
 
